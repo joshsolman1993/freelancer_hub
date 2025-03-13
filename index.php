@@ -1,1 +1,1 @@
-<?php echo 'Welcome to Freelancer Hub'; ?>
+<?php echo 'Welcome to Freelancer Hubbb'; ?>
